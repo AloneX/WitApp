@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://m.softwareabc.cn:8090/ztmobi/apps/YZApp.ipa</string>
+					<string>http://m.softwareabc.cn:8090/apps/YZApp.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://m.softwareabc.cn:8090/ztmobi/apps/YZApp.png</string>
+					<string>http://m.softwareabc.cn:8090/apps/YZApp.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://m.softwareabc.cn:8090/ztmobi/apps/YZApp.png</string>
+					<string>http://m.softwareabc.cn:8090/apps/YZApp.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
