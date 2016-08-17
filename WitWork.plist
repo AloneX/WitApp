@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.wit.work</string>
+				<string>com.wit.app.Aipin</string>
 				<key>bundle-version</key>
 				<string>1.1.2</string>
 				<key>kind</key>
